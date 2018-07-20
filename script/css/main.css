@@ -53,6 +53,10 @@ a.menu_elmnt {
     color: #f1f1f1;
 }
 
+a.menu_elmnt > img {
+    height: 100%;
+}
+
 content.main {
     position: relative;
     flex-grow: 1;
