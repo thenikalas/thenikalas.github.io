@@ -51,6 +51,8 @@ a.menu_elmnt {
     margin: 0 1%;
     border-radius: 50%;
     color: #f1f1f1;
+    padding: 2%;
+    box-sizing: border-box;
 }
 
 a.menu_elmnt > img {
