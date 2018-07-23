@@ -13,7 +13,7 @@ html, body {
 }
 
 body{
-	background-image: url(/img/bg/yosemite.jpg);
+	background-image: url(https://avatars.mds.yandex.net/get-pdb/27625/52e49d5a-f5a8-499a-8838-d621d5658886/s1200?webp=false);
 	background-repeat:  no-repeat;
 	background-size: cover;
 	background-color: #f1f1f1;
@@ -95,7 +95,7 @@ content.main {
     width: 110%;
     height: 110%;
     margin: 0% -5%;
-    background-image: url(/img/bg/yosemite.jpg);
+    background-image: url(https://avatars.mds.yandex.net/get-pdb/27625/52e49d5a-f5a8-499a-8838-d621d5658886/s1200?webp=false);
     filter: blur(10px);
     background-repeat: no-repeat;
     background-size: cover;
